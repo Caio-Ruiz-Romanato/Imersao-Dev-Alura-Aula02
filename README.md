@@ -4,4 +4,4 @@
 
 * Aula proposta por https://www.alura.com.br/
 
-<img align="left" src="https://i.postimg.cc/c6GSYhxc/calc-img.png" width=""/>
+<img align="left" src="https://i.postimg.cc/c6GSYhxc/calc-img.png" width="250"/>
